@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "845220349024",
+    "firebase_url": "https://ismalliacityguideapp.firebaseio.com",
+    "project_id": "ismalliacityguideapp",
+    "storage_bucket": "ismalliacityguideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845220349024:android:b56b2743edddd44e",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.ismaliacityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845220349024-2e2trsc4h768mmgtvlu441da3als341s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.ismaliacityapp",
+            "certificate_hash": "07b700101d2bc64ce13b66fa55665c8d893bd5e9"
+          }
+        },
+        {
+          "client_id": "845220349024-32pi8vq0ngdq49s44rcb233g2hqgm25u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOTCRuC-rffll6Yzi29A52jD6KMKKezI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845220349024-32pi8vq0ngdq49s44rcb233g2hqgm25u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845220349024:android:1327121290cb6a23",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.ismalliacityguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845220349024-kognqt60ttkni9kalrrs066pptv1an19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.ismalliacityguideapp",
+            "certificate_hash": "07b700101d2bc64ce13b66fa55665c8d893bd5e9"
+          }
+        },
+        {
+          "client_id": "845220349024-32pi8vq0ngdq49s44rcb233g2hqgm25u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOTCRuC-rffll6Yzi29A52jD6KMKKezI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845220349024-32pi8vq0ngdq49s44rcb233g2hqgm25u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

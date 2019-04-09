@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        barColorWhenSelected="@color/homePrimary"
+        icon="@drawable/ic_home_white_24dp"
+        id="@+id/action_home"
+        title="Home" />
+    <tab
+        barColorWhenSelected="@color/categoryPrimary"
+        icon="@drawable/loupe"
+        id="@+id/action_categorys"
+        title="Categorus" />
+    <tab
+        barColorWhenSelected="@color/mapsPrimary"
+        icon="@drawable/ic_event_white"
+        id="@+id/action_maps"
+        title="Maps" />
+    <tab
+        barColorWhenSelected="@color/optionsPrimary"
+        icon="@drawable/ic_group_white"
+        id="@+id/action_options"
+        title="Options" />
+    <tab
+        barColorWhenSelected="@color/helpPrimary"
+        icon="@drawable/ic_group_white"
+        id="@+id/action_help"
+        title="Help?" />
+</tabs>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#757575</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#fff</color>
+    <color name="colorPrimaryDarkL">#757575</color>
+    <color name="loading">#4CAF50</color>
+    <color name="colorBlack">#000000</color>
+    <color name="grey">#BDBDBD</color>
+    <color name="v">#1a237e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#111</color>
+    <color name="greyColor">#c2c2c2</color>
+    <color name="txtColor">#FFFB00</color>
+    <color name="purple">#9C27B0</color>
+    <color name="blue">#3498db</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#bdc3c7</color>
+
+    <!-- home color -->
+    <color name="homePrimary">#757575</color>
+    <color name="homePrimaryDark">#757575</color>
+
+    <color name="categoryPrimary">#FFB300</color>
+    <color name="categoryPrimaryDark">#FF8F00</color>
+
+    <color name="mapsPrimary">#4CAF50</color>
+    <color name="mapsPrimaryDark">#558B2F</color>
+
+    <color name="optionsPrimary">#3F51B5</color>
+    <color name="optionsPrimaryDark">#1A237E</color>
+
+    <color name="helpPrimary">#3F51B5</color>
+    <color name="helpPrimaryDark">#1A237E</color>
+    <!-- home color -->
+
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#95a5a6</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen1</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen1</item>
+    </array>
+</resources>

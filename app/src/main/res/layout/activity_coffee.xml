@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_logo"
+    tools:context=".ui.CoffeeActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="10dp"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:id="@+id/tx"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/colorAccent"
+                android:gravity="center"
+                android:text="Back"/>
+        </android.support.v7.widget.Toolbar>
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="144dp"
+            app:indicatorColor="@color/white"
+            app:indicatorName="LineScaleIndicator" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/coffees_RV"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:nestedScrollingEnabled="false"
+            android:visibility="gone" />
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

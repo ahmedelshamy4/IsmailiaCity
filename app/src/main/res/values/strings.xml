@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">IsmaliaCity</string>
+
+    <string name="title_login">Checking LOGIN.....</string>
+    <string name="title_signup">Signing UP......</string>
+
+    <string name="enter_email">Enter email address</string>
+    <string name="email_not_formatted">EmailNotFormatted</string>
+    <string name="check_your_mail">check your mail</string>
+    <string name="user_not_found">user not found</string>
+    <string name="error_in_connection">Error in connection</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password_length_error">password length error</string>
+
+    <string name="api_key">AIzaSyDgChPwVs86RFhov7SZwCKNDU27XlBxCRM</string>
+
+
+    <string name="facebook_app_id">297875560911207</string>
+    <string name="fb_login_protocol_scheme">143351ddeda36dfb9cd7ecbfdbf30e93</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY"> </string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET"></string>
+
+    <string name="next">next</string>
+    <string name="skip">skip</string>
+    <string name="GOTIT">GOT IT</string>
+
+    <string name="board_1_title">IsmalliaCityGuideApp!</string>
+    <string name="board_desc">Platform for Smart IsmailiaCityGuideApp</string>
+
+    <string name="board_2_title">Search!</string>
+    <string name="board_2_desc">Find any thing in Ismailia City</string>
+
+    <string name="board_3_title">Aware Spot</string>
+    <string name="board_3_desc">Aware Spots For the People by the People, Show the UnSafe Place to Traveling Womens</string>
+
+
+    <string name="sign_in">Sign in</string>
+    <string name="signup">Don\\\'t Have An Account ?</string>
+    <string name="forgot">Forget Password</string>
+    <string name="sign_up">SignUp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">elllllllllllllllllllllllllllllllll</string>
+    <string name="wrong_email_or_password">Wrong Email or Password</string>
+    <string name="or_signin_with">_________________Or Signin with_________________</string>
+    <string name="forget_password">Forgot Your Password ?</string>
+    <string name="create_account">Create new account</string>
+    <string name="login">Login</string>
+    <string name="et_password">Password</string>
+    <string name="et_email">User name</string>
+    <string name="et_email_id">Email ID</string>
+    <string name="et_name">Name</string>
+    <string name="et_password_id">Password</string>
+    <string name="btn_register">SIGN UP</string>
+    <string name="des">Welcome To Ismailia</string>
+    <string name="des_ismaila">    Ismailia is a city in north eastern Egypt. Known in Egypt as The City of Beauty. and Enchantment Ismailia is situated on the west bank of the Suez Canal,It is the captial of the Ismailia Govermorate.It is located approximately</string>
+</resources>
